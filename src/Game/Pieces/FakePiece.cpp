@@ -1,7 +1,4 @@
-//
-// Created by Pawel on 02.06.2021.
-//
-
+#include <cmath>
 #include <iostream>
 #include "FakePiece.h"
 
