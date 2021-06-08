@@ -1,12 +1,14 @@
 # Tetris clone made with SFML
 ## Usage
-Download SFML library, rename the directory to "SFML" and place it in the main directory containing "assets" and "src" folders.
-Run the cmake project:
+On windows:
 
-```
-  cmake .
-  make run
-```
+Download SFML library, rename the directory to "SFML" and place it either in:
+<ul>
+  <li>in the main directory containing "assets" and "src" folders.</li>
+  <li>in C:\ </li>
+</ul>
+
+Then run the cmake project (either through CLion or cmd)
 
 
 ## How to play:
